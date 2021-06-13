@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-# MyJavaCodit
-=======
-# MyJavaCodit
->>>>>>> refs/remotes/origin/main
+Contains My Java & DS snippets 
